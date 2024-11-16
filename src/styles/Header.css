@@ -1,0 +1,38 @@
+.header {
+    background: linear-gradient(to right, #3d0863, #8633c1, #3b0661);
+  }
+  
+  .brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  .navbar-dark .nav-link {
+    color: #fff;
+  }
+  
+
+body {
+  font-family: 'Roboto', sans-serif; 
+}
+
+.header {
+  background-color: #222; 
+}
+
+.navbar-nav .nav-link {
+  color: white;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #00c8ff; 
+}
+
+.card-title, .card-text {
+  color: #000; 
+}
+
+.card {
+  background-color: #fff;
+}
